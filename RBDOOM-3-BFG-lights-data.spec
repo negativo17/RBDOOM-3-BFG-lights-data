@@ -1,6 +1,6 @@
 Name:           RBDOOM-3-BFG-lights-data
 Version:        1.3.0
-Release:        1%{?dist}
+Release:        1
 Summary:        Doom 3 BFG Edition baked environment probes and lightgrid data
 License:        GPL
 URL:            https://github.com/RobertBeckebans/%{name}
